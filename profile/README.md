@@ -1,9 +1,5 @@
 <div align="center">
   <img src="https://codeberg.org/scampi-dev/scampi/raw/branch/main/scampi.png" width="180" alt="scampi">
-
-  <h1>scampi</h1>
-
-  <p><strong>Declare the what, scampi handles the how.</strong></p>
 </div>
 
 A declarative system convergence engine. Describe desired system state in scampi's own language; the engine executes idempotent operations to converge reality to that state. Think Ansible or Terraform, but with actual programming instead of YAML/HCL, batteries-included steps instead of plugin sprawl, and deterministic execution.
