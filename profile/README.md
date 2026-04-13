@@ -13,11 +13,13 @@ A declarative system convergence engine. Describe desired system state in scampi
 | ------------------------ | ------------------------------------------------------ |
 | [scampi]                 | The engine — CLI, language, planner, executors        |
 | [modules]                | Official module library — reusable converge configs   |
+| [vscode-scampi]          | VS Code extension — syntax highlighting and LSP      |
 | [tree-sitter-scampi]     | Tree-sitter grammar for `.scampi` files                |
 | [tree-sitter-scampi-mod] | Tree-sitter grammar for `scampi.mod` files             |
 
 [scampi]: https://github.com/scampi-dev/scampi
 [modules]: https://github.com/scampi-dev/modules
+[vscode-scampi]: https://github.com/scampi-dev/vscode-scampi
 [tree-sitter-scampi]: https://github.com/scampi-dev/tree-sitter-scampi
 [tree-sitter-scampi-mod]: https://github.com/scampi-dev/tree-sitter-scampi-mod
 
